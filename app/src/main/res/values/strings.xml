@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StockMarketApp</string>
+    <string name="error_data">Erro ao carregar os dados!</string>
+    <string name="error_intraday">Erro ao carregar o intradiário!</string>
+    <string name="error_company">Erro ao carregar a company!</string>
+    <string name="search_placeholder">Buscar...</string>
+</resources>
